@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: keras-segmentation
+Version: 0.2.0
+Summary: Image Segmentation toolkit for keras
+Home-page: https://github.com/divamgupta/image-segmentation-keras
+Author: Divam Gupta
+Author-email: divamgupta@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: any
